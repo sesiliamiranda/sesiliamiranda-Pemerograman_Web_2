@@ -1,0 +1,33 @@
+.tambah{
+    padding-top: 20px;
+    height: 640px;
+}
+.header{
+    background-color: #E97777;
+    font-weight: bold;
+}
+.sidebar2{
+    background-color: #FFDDD2;
+    color: black;
+}
+.menu{
+    background-color: #FFB9B9;
+}
+.login{
+    background-color: #FFB9B9;
+}
+.lg{
+    padding-top: 120px;
+    font-weight: bold;
+}
+.rg{
+    padding-top: 100px;
+    font-weight: bold;
+}
+.table p{
+    margin-top: 30px;
+    margin-bottom: 1rem;
+    width: 900px;
+    text-align: justify;
+    font-size: 18px;
+}
